@@ -1,0 +1,60 @@
+When train_num is 1000
+Got 901 / 1000 correct when k= 3 => accuracy: 0.901000
+Got 892 / 1000 correct when k= 5 => accuracy: 0.892000
+When train_num is 2000
+Got 919 / 1000 correct when k= 3 => accuracy: 0.919000
+Got 920 / 1000 correct when k= 5 => accuracy: 0.920000
+When train_num is 3000
+Got 931 / 1000 correct when k= 3 => accuracy: 0.931000
+Got 926 / 1000 correct when k= 5 => accuracy: 0.926000
+When train_num is 4000
+Got 949 / 1000 correct when k= 3 => accuracy: 0.949000
+Got 940 / 1000 correct when k= 5 => accuracy: 0.940000
+When train_num is 5000
+Got 955 / 1000 correct when k= 3 => accuracy: 0.955000
+Got 940 / 1000 correct when k= 5 => accuracy: 0.940000
+When train_num is 6000
+Got 954 / 1000 correct when k= 3 => accuracy: 0.954000
+Got 945 / 1000 correct when k= 5 => accuracy: 0.945000
+When train_num is 7000
+Got 958 / 1000 correct when k= 3 => accuracy: 0.958000
+Got 949 / 1000 correct when k= 5 => accuracy: 0.949000
+When train_num is 8000
+Got 959 / 1000 correct when k= 3 => accuracy: 0.959000
+Got 957 / 1000 correct when k= 5 => accuracy: 0.957000
+When train_num is 9000
+Got 961 / 1000 correct when k= 3 => accuracy: 0.961000
+Got 957 / 1000 correct when k= 5 => accuracy: 0.957000
+When train_num is 10000
+Got 958 / 1000 correct when k= 3 => accuracy: 0.958000
+Got 960 / 1000 correct when k= 5 => accuracy: 0.960000
+When train_num is 11000
+Got 963 / 1000 correct when k= 3 => accuracy: 0.963000
+Got 960 / 1000 correct when k= 5 => accuracy: 0.960000
+When train_num is 12000
+Got 966 / 1000 correct when k= 3 => accuracy: 0.966000
+Got 963 / 1000 correct when k= 5 => accuracy: 0.963000
+When train_num is 13000
+Got 966 / 1000 correct when k= 3 => accuracy: 0.966000
+Got 963 / 1000 correct when k= 5 => accuracy: 0.963000
+When train_num is 14000
+Got 968 / 1000 correct when k= 3 => accuracy: 0.968000
+Got 966 / 1000 correct when k= 5 => accuracy: 0.966000
+When train_num is 15000
+Got 966 / 1000 correct when k= 3 => accuracy: 0.966000
+Got 966 / 1000 correct when k= 5 => accuracy: 0.966000
+When train_num is 16000
+Got 965 / 1000 correct when k= 3 => accuracy: 0.965000
+Got 965 / 1000 correct when k= 5 => accuracy: 0.965000
+When train_num is 17000
+Got 965 / 1000 correct when k= 3 => accuracy: 0.965000
+Got 966 / 1000 correct when k= 5 => accuracy: 0.966000
+When train_num is 18000
+Got 967 / 1000 correct when k= 3 => accuracy: 0.967000
+Got 967 / 1000 correct when k= 5 => accuracy: 0.967000
+When train_num is 19000
+Got 967 / 1000 correct when k= 3 => accuracy: 0.967000
+Got 967 / 1000 correct when k= 5 => accuracy: 0.967000
+When train_num is 20000
+Got 967 / 1000 correct when k= 3 => accuracy: 0.967000
+Got 966 / 1000 correct when k= 5 => accuracy: 0.966000
